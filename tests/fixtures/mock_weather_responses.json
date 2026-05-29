@@ -1,0 +1,9 @@
+{
+  "paris_success": {
+    "name": "Paris",
+    "main": {"temp": 22.5, "humidity": 65},
+    "weather": [{"description": "ciel dégagé"}]
+  },
+  "error_404": {"cod": "404", "message": "city not found"},
+  "error_401": {"cod": 401, "message": "Invalid API key"}
+}
